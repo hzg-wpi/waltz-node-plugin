@@ -9,6 +9,6 @@
 
 
 ```bash
-npm install @waltz-controls/XXX --registry=https://npm.pkg.github.com/waltz-controls
+npm install @hzg-wpi/XXX --registry=https://npm.pkg.github.com/hzg-wpi
 ```
 
